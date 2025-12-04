@@ -1,4 +1,4 @@
-# Ip-tarama-sistemi-denemesi ve palet testi
+# Ip-tarama-sistemi-denemesi ve paket testi
 Python app.py yazin bukadar
 Termuxta veya kali veya windows mkdir templates/ yaziniz
 ve kali termux macos 
